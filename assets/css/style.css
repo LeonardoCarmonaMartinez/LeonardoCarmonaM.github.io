@@ -4,13 +4,6 @@ body {
 
 /* Hero Section */
 
-#Hero-Section {
-  background-image: url(assets/img/img-desarrollo.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
 /* Mis trabajos */
 
 .card img{
