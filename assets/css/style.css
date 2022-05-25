@@ -9,6 +9,15 @@ body {
   background-size: contain;
 }
 
+.photo{
+  border: solid 3px orange;
+}
+
+/* Main */
+
+#Acerca-de-mi{
+
+}
 
 /* Mis trabajos */
 
